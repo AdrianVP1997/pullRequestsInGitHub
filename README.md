@@ -1,3 +1,10 @@
+# Miembros del Grupo
+
+Adrián Vázquez Pérez
+Roberto Aparicio De Santos
+Roberto Carlos Pérez González
+Jose Vicente Gargallo Jaquotot
+
 # Repo para EIEC - DevOps - UNIR
 
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
